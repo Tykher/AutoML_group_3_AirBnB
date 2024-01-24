@@ -8,7 +8,6 @@ st.set_page_config(page_title='Airbnb Price Calculator', page_icon=':house:', la
 
 # Define colors
 BACKGROUND_COLOR = "#1E1E1E"
-TEXT_COLOR = "#FFFFFF"
 INPUT_BACKGROUND_COLOR = "#FFFFFF"
 BUTTON_COLOR = "#FFD700"
 
@@ -21,9 +20,6 @@ st.markdown("""
         }
         .sidebar .sidebar-content {
             background-color: #1E1E1E;
-        }
-        h1, h2, h3, h4, h5, h6, .caption, .stTextInput, .stSelectbox, .stTextArea, .stSlider, .stNumberInput {
-            color: #FFFFFF;
         }
 
         /* Styles for buttons */
