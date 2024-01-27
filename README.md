@@ -97,7 +97,3 @@ Visit [Streamlit's website](https://streamlit.io/) for more information on using
 ## 11. License
 
 This project is licensed under the [PJATK License](LICENSE).
-
-Feel free to explore, use, and contribute to this project!
-
----
