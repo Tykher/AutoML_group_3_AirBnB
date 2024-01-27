@@ -1,6 +1,4 @@
-Certainly! Here's the updated README file with the information about using Streamlit for the UI:
 
----
 
 # Airbnb Price Prediction
 
