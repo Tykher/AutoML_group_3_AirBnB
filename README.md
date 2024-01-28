@@ -68,12 +68,6 @@ This project aims to predict Airbnb prices by merging datasets from multiple cit
 - **matplotlib**: A comprehensive library for creating static, animated, and interactive visualizations in Python. [Link to matplotlib](https://matplotlib.org/)
 - **numpy**: A fundamental package for scientific computing with Python. [Link to numpy](https://numpy.org/)
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 9. Saving the Model Locally
 
 To run the model and save it locally:
